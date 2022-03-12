@@ -23,14 +23,6 @@ Here are some ideas to get you started:
 
   [![Card](https://github-readme-stats.vercel.app/api/pin/?username=KiyanYang&repo=HashTool)](https://github.com/KiyanYang/HashTool)
 
-- 数据仓库
-
-  - Bing image url 必应日图的链接，每日自动更新。
-
-  - 之后会增加其他的数据（比如 GitHub 上开源的网页小游戏）
-
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=KiyanYang&repo=Data)](https://github.com/KiyanYang/Data)
-
 ## About me
 
 [![KiyanYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiyanYang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
