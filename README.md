@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ## About me
 
-[![KiyanYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiyanYang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![KiyanYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiyanYang&theme=transparent&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyanYang&layout=compact&hide=html,css,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyanYang&theme=transparent&layout=compact&hide=html,css,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
