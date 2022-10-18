@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Pins
-
-- HashTool 哈希校验工具
-
-  [![Card](https://github-readme-stats.vercel.app/api/pin/?username=KiyanYang&repo=HashTool)](https://github.com/KiyanYang/HashTool)
-
 ## About me
 
 [![KiyanYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiyanYang&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiyanYang&layout=compact&hide=html,css,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
