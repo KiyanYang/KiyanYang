@@ -1,6 +1,6 @@
 # 杨可 - @KiyanYang
 
-> 欢迎访问[我的博客](https://kiyanyang.github.io/)。
+欢迎访问我的[博客](https://blog.dotvast.cc/)。
 
 <!--
 **KiyanYang/KiyanYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
